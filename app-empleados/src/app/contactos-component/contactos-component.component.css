@@ -1,0 +1,45 @@
+.contact_form{
+
+  width: 400px ;
+  height: 20px;
+  margin-left: 1em;
+ float: left;
+}
+
+.form-group{
+  display:inline-block;
+  width: 400px ;
+  height: 50px;
+  margin-left: 5em;
+}
+
+.btn-danger{float:right;}
+
+table th{text-align:center;
+}
+.container{
+font-size:20px ;
+background-color: #0a202791;
+text-align:left;
+font-family: "Times New Roman", Times, serif
+}
+table {
+   width: 200%;
+   border: 1px solid #000;
+   background:  #99CCFF;
+
+}
+th, td {
+   width: 80%;
+   text-align: left;
+   vertical-align: top;
+   border: 2px solid #000;
+
+}
+caption {
+   padding: 0.3em;
+}
+#enviar{font-size:20px;
+  width:400px;
+  height:50px}
+
